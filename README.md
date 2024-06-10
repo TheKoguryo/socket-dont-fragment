@@ -2,10 +2,10 @@
 
 ## Socket Server
 
-- [Go](./Go/Server/tcp-server.go)
-- [C#](./C#/Server/Program.cs) 
+- [Go](./Go/Server/)
+- [C#](./C%23/Server/) 
 
 ## Socket Client
 
-- [Go](./Go/Client/tcp-client.go)
-- [C#](./C#/Client/README.md)
+- [Go](./Go/Client/)
+- [C#](./C%23/Client/)
