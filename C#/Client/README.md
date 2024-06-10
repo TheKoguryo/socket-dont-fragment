@@ -2,7 +2,7 @@
 
 ## Windows 11 기준
 
-### .NET 설치
+### Install .NET SDK
 
 1. .NET 다운로드 사이트에 접속하여 .NET SDK를 다운로드 받습니다.
 
@@ -19,7 +19,7 @@
     8.0.301
     ```
 
-### Socket Client 실행
+### Run Socket Client
 
 1. 실행할 소스코드를 다운로드 받습니다.
 
